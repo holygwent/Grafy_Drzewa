@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tworzenie_Drzew_Zaliczenie/1.0.0": {
+        "runtime": {
+          "Tworzenie_Drzew_Zaliczenie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tworzenie_Drzew_Zaliczenie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

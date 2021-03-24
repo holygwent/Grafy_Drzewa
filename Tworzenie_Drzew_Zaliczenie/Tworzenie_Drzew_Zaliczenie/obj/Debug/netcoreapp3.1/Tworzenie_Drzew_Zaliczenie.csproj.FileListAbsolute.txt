@@ -1,0 +1,13 @@
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\bin\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.exe
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\bin\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.deps.json
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\bin\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.runtimeconfig.json
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\bin\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.runtimeconfig.dev.json
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\bin\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.dll
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\bin\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.pdb
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\obj\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.csprojAssemblyReference.cache
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\obj\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.AssemblyInfoInputs.cache
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\obj\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.AssemblyInfo.cs
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\obj\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\obj\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.dll
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\obj\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.pdb
+C:\Users\48502\source\repos\Tworzenie_Drzew_Zaliczenie\Tworzenie_Drzew_Zaliczenie\obj\Debug\netcoreapp3.1\Tworzenie_Drzew_Zaliczenie.genruntimeconfig.cache
