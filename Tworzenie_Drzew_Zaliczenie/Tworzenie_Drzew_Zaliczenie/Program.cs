@@ -66,7 +66,7 @@ namespace Tworzenie_Drzew_Zaliczenie
                     vk = rand.Next(NR);
                     wartoscK = (int)R[vk];
                     R.RemoveAt(vk);
-                    T.Add(wartoscP);
+                    T.Add(wartoscK);
                     NR--;
                     NT++;
                     tabDrzew[i].WierzcholkiPoczatkowe[j] = wartoscP;
